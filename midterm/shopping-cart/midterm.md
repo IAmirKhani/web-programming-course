@@ -6,14 +6,21 @@ This project is a midterm submission for the Web Programming course, demonstrati
 ## Setup and Installation
 
 1. install Go.
+
     Ensure Go is installed on your system. Download it from the official Go website if needed.
+
 2. Clone the Repository
+
     Clone this repository to your local machine using:
     - git clone https://github.com/IAmirKhani/web-programming-course.git
+
 3. Install Dependencies:
     > cd midterm
+
     > cd shopping-cart
+
     > go mod tidy
+    
 4. Run the Application:
     > go run main.go models.go
 
